@@ -12,4 +12,6 @@ In linkedin and indeed there will be a Analyze Job Suitability option which you 
 
 Once a response is received back from OpenAI you will receive a suitability score and a details link you can hover over to see more information.
 
+Plugin data is stored in an IndexedDB and kept for 1 week.
+
 NOTE: If you're pushing a request for this repo ensure you do not commit your API key.
