@@ -1,7 +1,7 @@
 # AiJobAnalyzer
 A chromium plugin that allows the user to analyze their job history against indeed and linkedin listings
 
-#How to user
+# How to use
 Edit background.js and replace #YOURKEYHERE with your OpenAI api key.
 
 Open manage extensions in chrome and hit the Developer mode button, then select load unpacked and select the folder with the repository files in it.
